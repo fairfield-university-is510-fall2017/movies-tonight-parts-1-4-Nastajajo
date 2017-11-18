@@ -1,4 +1,4 @@
-#Data Modeling Notes
+# Data Modeling Notes
 
 ## Normalization Analysis
 
@@ -34,6 +34,5 @@ Credits(CreditId, MovieID, AID, Ccode)
 Artists(AID, Name, Bio)
 
 ## Entity Relationship Modeling
-
-**ERD LicidChart**
-![ERD File](img/MoviesTonightERD.png)
+Please refer to the below
+![ERD Chart](MoviesTonightERD.png)
